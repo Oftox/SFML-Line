@@ -9,3 +9,7 @@ Uses math to make RectangleShape into a line.
 3. Sets the lines position to the midpoint
 4. Sets the wideness of the line to the distance(5 pixels tall)
 5. Rotates towards the endpoint.
+
+##############################
+A LITTLE BUGGY AT THE MOMENT
+##############################
