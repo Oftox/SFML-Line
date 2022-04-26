@@ -14,7 +14,6 @@ void rotateTowards(sf::RectangleShape &shape, sf::Vector2f cord) {
 
     float angle = atan2(cord.y - shapePos.y, cord.x - shapePos.x) * 180 / 3.141;
     shape.setRotation(angle);
-    //std::cout << "Angle:  " << angle << std::endl;
 
 }
 
